@@ -1,0 +1,23 @@
+{
+  "name": "zetgoo-captcha-websdk",
+  "version": "1.0.0",
+  "description": "zcaptcha build to safe your web",
+  "main": "index.js",
+  "scripts": {
+    "test": "test cmd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zetgoo/zetgoo-captcha-websdk.git"
+  },
+  "keywords": [
+    "captcha",
+    "zetgoo"
+  ],
+  "author": "zetgoo team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zetgoo/zetgoo-captcha-websdk/issues"
+  },
+  "homepage": "https://github.com/zetgoo/zetgoo-captcha-websdk#readme"
+}
